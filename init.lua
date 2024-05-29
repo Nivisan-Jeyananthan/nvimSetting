@@ -1,0 +1,2 @@
+require('kami')
+print('hello')
