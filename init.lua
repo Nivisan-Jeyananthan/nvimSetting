@@ -1,2 +1,1 @@
-require('kami')
-print('hello')
+require('nivisan')
